@@ -1,0 +1,17 @@
+PÁGINA LIFESTYLE — VERSÃO MOBILE
+
+Extraia o ZIP e abra index.html no navegador.
+Para publicar, envie index.html, styles.css, script.js e assets/ para sua hospedagem.
+Não é necessário instalar ou compilar nada.
+
+Pixel original preservado: 1080596471126778 (PageView).
+Checkout original: https://pay.cakto.com.br/4s9i5zw_1087512
+Os parâmetros da visita continuam sendo encaminhados ao checkout.
+Preço apresentado: R$19,99, conforme o valor informado para o produto.
+
+A imagem é a mesma da página original. Três amostras reais enviadas pelo proprietário foram adicionadas.
+As amostras estão em assets/amostra-1.mp4, amostra-2.mp4 e amostra-3.mp4.
+Os vídeos usam preload=none, controles nativos e reprodução dentro da página no celular.
+O conteúdo dos vídeos foi preservado, apenas o MP4 foi preparado para início progressivo.
+O evento Purchase deve continuar sendo tratado pela integração do checkout;
+a página não dispara compras no clique.
